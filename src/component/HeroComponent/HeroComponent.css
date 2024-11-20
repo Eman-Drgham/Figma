@@ -1,0 +1,20 @@
+.ED-hero{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ED-h1{
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 70px;
+    color: var(#2D2D2D);
+    margin-bottom: 40px;
+}
+.ED-hero .ED-h5{
+    margin-bottom: 40px;
+}
+.ED-hero-img{
+    width: 27.8125%;
+    height: 424px;
+}
